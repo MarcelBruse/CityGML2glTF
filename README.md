@@ -1,4 +1,4 @@
-# CityGML2glTF
+# CityGML2glTF (C2G)
 
 A Windows batch script which eases the conversion of CityGML to glTF. For this job it utilizes the
 * CityGML2X converter and the
